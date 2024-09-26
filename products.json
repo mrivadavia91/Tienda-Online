@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza Margarita",
+        "price": 10,
+        "image": "images/pizza.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Hamburguesa Clásica",
+        "price": 8,
+        "image": "images/burger.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sushi Rolls",
+        "price": 12,
+        "image": "images/sushi.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ensalada César",
+        "price": 7,
+        "image": "images/salad.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tacos",
+        "price": 6,
+        "image": "images/tacos.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Pasta Carbonara",
+        "price": 9,
+        "image": "images/pasta.jpg"
+    }
+]
